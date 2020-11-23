@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SofbangInfra/Infrastructure%20Team%20Learning/_apis/build/status/alaincampos.pipelines-java?branchName=master)](https://dev.azure.com/SofbangInfra/Infrastructure%20Team%20Learning/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
